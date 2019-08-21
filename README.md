@@ -5,9 +5,9 @@ Yelp Data Set Analysis by making use of Hadoop concepts like MapReduce Framework
 <b>1. Analysis01</b><br>
   Number of business in a city	MongoDB import utility<br>
 <b>2. Analysis02</b><br>
-  Replicated join to find which user has posted reviews for businesses	Apache Pig – Replicated Join<br
+  Replicated join to find which user has posted reviews for businesses	Apache Pig – Replicated Join<br>
 <b>3. Analysis03</b><br>
-  To find business details that have user reviews less than 100.	Apache Pig
+  To find business details that have user reviews less than 100.	Apache Pig<br>
 <b>4. Analysis04</b><br>
   To find top 3 business based on rating for each city.	Apache Hive<br>
 <b>5. Analysis05</b><br>
