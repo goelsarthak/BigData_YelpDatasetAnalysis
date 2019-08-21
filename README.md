@@ -1,7 +1,7 @@
 # BigData_YelpDatasetAnalysis
 Yelp Data Set Analysis by making use of Hadoop concepts like MapReduce Framework, Hive, Pig, HBase, Map Reduce Design Patterns, Mahout<br><br>
 
-<b>Following analysis are performed:</b><br>
+<b>Following analysis are performed:</b><br><br>
 <b>1. Analysis01</b><br>
   Number of business in a city	MongoDB import utility<br>
 <b>2. Analysis02</b><br>
