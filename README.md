@@ -20,7 +20,7 @@ Yelp Data Set Analysis by making use of Hadoop concepts like MapReduce Framework
   Users who have yelp account but never provided any reviews yet	MapReduce – Joins<br>
 <b>9. Analysis09</b><br>
   To find the top 25 most reviewed business by users	MapReduce – Filtering Techniques Top n Filtering Pattern<br>
-<b>10. Analysis10<br>
+<b>10. Analysis10</b><br>
   To find out how well a business is been rated by users per year	MapReduce – Secondary Sort<br>
 <b>11. Analysis11</b><br>
   Mahout Recommendation	Data Cleaning + Mahout Recommendation<br>
